@@ -1,0 +1,18 @@
+﻿DEVIID,設備ID
+GW_OUT_DATETIME,invert 傳資料到gw的時間
+Local_Time,GMT +8
+OPTPWR,交流端功率(當下發電量)
+ACV1,交流電壓1
+ACV2,交流電壓2
+ACCL1,交流電流1
+ACCL2,交流電流2
+ACF1,交流頻率1
+IIT,內部溫度
+IHT,散熱片溫度
+DCVL1,直流電壓1
+DCVL2,直流電壓2
+DCCL1,直流電流1
+DCCL2,直流電流2
+IPA,輸入功率A
+IPB,輸入功率B
+TOTALKWH,累積發電量
